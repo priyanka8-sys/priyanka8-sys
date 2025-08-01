@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priyanka Sengar</h1>
-<h3 align="center">A passionate Full Stack Developer | Pythonista | AI Enthusiast</h3>
+<h3 align="center">A passionate Frontend developer and data analyst | Pythonista | AI Enthusiast</h3>
 
 ---
 
 - 🔭 I’m currently working on **Rectify Resume** – an AI-powered resume builder  
 - 🌱 I’m learning **FastAPI**, **LLMs**, and **DevOps**  
-- 💬 Ask me about **Python, React, Django, FastAPI**  
+- 💬 Ask me about **Python, React, Django, My SQL**  
 - 📫 Reach me at: **priyankasengar.dev@gmail.com**  
-- 📄 Check out my [Resume](#) *(replace with your live resume link)*  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/16KpmxlmtyNUU4LBC6DZBilOLnMTP4tez/view?usp=sharing)  
 
 ---
 

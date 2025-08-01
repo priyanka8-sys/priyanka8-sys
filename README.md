@@ -7,7 +7,7 @@
 - 🌱 I’m learning **FastAPI**, **LLMs**, and **DevOps**  
 - 💬 Ask me about **Python, React, Django, FastAPI**  
 - 📫 Reach me at: **priyankasengar.dev@gmail.com**  
-- 📄 Check out my [Resume](#) *(replace with your live resume link)*  
+- 📄 Check out my [resume](https://drive.google.com/file/d/1e4a7LPCtdsECtWBlR7yF0tTFQeguU_sU/view?usp=sharing)  
 
 ---
 

@@ -1,36 +1,23 @@
-<h1 align="center">👋 Hi there, I'm Priyanka Sengar</h1>
-<h3 align="center">Full Stack Developer | Pythonista | AI Resume Builder Creator</h3>
+<h1 align="center">Hi 👋, I'm Priyanka Sengar</h1>
+<h3 align="center">A passionate Full Stack Developer | Pythonista | AI Enthusiast</h3>
 
 ---
 
-### 💫 About Me
-
-- 🎓 B.Tech Computer Science student
-- 💡 Currently working on **Rectify Resume** — an AI-powered resume editor  
-- 🌱 Learning **FastAPI**, **LLMs**, and **React ecosystem**
-- 💬 Ask me about **Python, React, Tailwind, and API development**
-- 📫 Reach me at: **priyankasengar.dev@gmail.com**
-- 🌐 Portfolio: *(Coming Soon)*
+- 🔭 I’m currently working on **Rectify Resume** – an AI-powered resume builder  
+- 🌱 I’m learning **FastAPI**, **LLMs**, and **DevOps**  
+- 💬 Ask me about **Python, React, Django, FastAPI**  
+- 📫 Reach me at: **priyankasengar.dev@gmail.com**  
+- 📄 Check out my [Resume](#) *(replace with your live resume link)*  
 
 ---
 
-### 🚀 Key Projects
-
-| Project | Description |
-|--------|-------------|
-| [**Rectify Resume**](https://github.com/priyanka8-sys/rectify-resume) | AI-enhanced resume builder with edit, optimize, and download functionality |
-| [**Portfolio Website**](https://github.com/priyanka8-sys) | *(Coming soon)* Personal site to showcase my work and skills |
-| [**Resume Enhancer (AI)**](https://github.com/priyanka8-sys/rectify-resume) | NLP-based improvements for better ATS score using FastAPI backend |
-
----
-
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ---
@@ -44,21 +31,29 @@
 
 ---
 
-### 🔗 Let's Connect
+### 📫 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/priyanka8-sys" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:priyankasengar.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" alt="Gmail" />
+  <img align="center" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" alt="Gmail" />
 </a>
 </p>
 
 ---
 
-> ⭐ If you like my work, consider starring a few repos or connecting with me on LinkedIn!
+### 🌟 Featured Project
+
+#### 🔗 [Rectify Resume](https://github.com/priyanka8-sys/rectify-resume)
+
+> 🧠 An AI-powered resume builder with edit, preview, optimization, and download capabilities. Built with React + FastAPI.
+
+---
+
+
 
 
 

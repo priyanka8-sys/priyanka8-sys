@@ -34,11 +34,11 @@
 ### 📫 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/priyanka8-sys" target="_blank">
+<a href="https://linkedin.com/in/priyanka8-sys" >
   <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:priyankasengar.dev@gmail.com" target="_blank">
+<a href="mailto:priyankasengar.dev@gmail.com" >
   <img align="center" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" alt="Gmail" />
 </a>
 </p>
